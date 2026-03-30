@@ -11,5 +11,5 @@ python manage.py makemigrations
 # Run migrations
 python manage.py migrate
 
-# Collect static files
+# Collect stati
 python manage.py collectstatic --noinput --clear
